@@ -1,0 +1,5 @@
+co\unicauca\microkernel\core\presentation\Console.class
+co\unicauca\microkernel\core\business\ProjectService.class
+co\unicauca\microkernel\core\plugin\manager\ReportPluginManager.class
+co\unicauca\microkernel\core\business\ReportService.class
+co\unicauca\microkernel\core\app\Application.class

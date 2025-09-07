@@ -1,0 +1,3 @@
+co\unicauca\microkerne\common\entities\Report.class
+co\unicauca\microkerne\common\entities\Project.class
+co\unicauca\microkerne\common\interfaces\IReportPlugin.class

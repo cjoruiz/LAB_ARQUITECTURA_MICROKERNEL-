@@ -1,0 +1,5 @@
+# Configuracion de formatos de entrega.
+format.pdf = co.unicauca.microkernel.report.pdf.plugin.PdfReportPlugin
+format.json = co.unicauca.microkernel.json.plugin.JsonReportPlugin
+format.html = co.unicauca.microkernel.html.plugin.HtmlReportPlugin
+#delivery.json = co.unicauca.microkernel.ArgentinaDeliveryPlugin
